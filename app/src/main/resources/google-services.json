@@ -1,0 +1,42 @@
+  {
+  "project_info": {
+    "project_number": "943640981977",
+    "firebase_url": "https://business-helper-ef224.firebaseio.com",
+    "project_id": "business-helper-ef224",
+    "storage_bucket": "business-helper-ef224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943640981977:android:bff2081a0a2c7124",
+        "android_client_info": {
+          "package_name": "com.aectann.bh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943640981977-d6u3hmdqo743ujk31il3403h6c8vikj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoTDCZgZBB2Hv20476q3rykhDIsycaeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

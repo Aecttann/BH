@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Бизнесс ассистент</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_item_home">Главная</string>
+    <string name="converter">Конвертер валют</string>
+
+    <string name="drawer_item_settings">Настройки</string>
+    <string name="drawer_item_help">Помощь</string>
+
+    <string name="drawer_item_contact">Контакты</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Произнесите команду&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Нажми и говори</string>
+
+    <string name="contact_us">Контакты: </string>
+    <string name="email">aectann101@gmail.com</string>
+    <string name="email_2">aesonne101@gmail.com</string>
+
+    <string-array name="currencylist">
+        <item>Гривна</item>
+        <item>Доллар</item>
+        <item>Евро</item>
+        <item>Рубль</item>
+    </string-array>
+</resources>
